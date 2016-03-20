@@ -21,11 +21,11 @@ Here we see a drawing demonstrating the use of the pencil tool (large green line
 * Tools
  * Pencil tool (3 sizes, 256 colors)
  * Eraser tool (3 sizes)
- * Stamp tool (7 30x30 stamps, transparency included)
+ * Stamp tool (7 available 30x30 stamps, transparency included)
  * Reset tool
 
 ## Technical Information
-The drawing board is saved in a 240x240 byte dual-port RAM, while the stamps are stored in 30x30 byte ROMs.
+The drawing board is saved in a 240x240 byte dual-port RAM, while the stamps are stored in 30x30 byte ROMs. We were limited to a 240x240 region due to space limitations on our board of around 65KB.
 
 The user changes tools using the buttons on the board, with UP/DOWN for tool selection and LEFT/RIGHT for settings within a tool. Tools are used by pressing (and holding, if desired) the left button on the joystick.
 

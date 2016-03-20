@@ -8,6 +8,8 @@ Sample Drawing:
 
 ![](https://raw.githubusercontent.com/Daniel-Norman/FDPaint/master/sample.jpg)
 
+Here we see a drawing demonstrating the use of the pencil tool (large green lines for grass, thin blue lines for clouds) and the stamp tool (hearts, penguins, etc.). The current pencil color is shown on either side of the drawing region.
+
 ## Features
 * VGA Driver
  * Uses standard 640x480 60Hz resolution

@@ -2,7 +2,7 @@
 FPGA Paint Tool
 
 ## Introduction
-FDPaint is a basic version of a classic desktop paint program, such as MS Paint, built in Verilog to run on the Nexys3 FPGA.
+FDPaint is a basic version of a classic desktop paint program, such as MS Paint, built in Verilog to run on the Nexys3 FPGA. This program was a collaboration with [Fay Wu](https://github.com/mfaywu) for our final project submission for UCLA's CS M152A course.
 
 Sample Drawing:
 

@@ -25,7 +25,7 @@ Sample Drawing:
 ## Technical Information
 The drawing board is saved in a 240x240 byte dual-port RAM, while the stamps are stored in 30x30 byte ROMs.
 
-The user changes tools using the buttons on the board, with UP/DOWN for tool selection and LEFT/RIGHT for settings within a tool.
+The user changes tools using the buttons on the board, with UP/DOWN for tool selection and LEFT/RIGHT for settings within a tool. Tools are used by pressing (and holding, if desired) the left button on the joystick.
 
 Users are able to choose between 256 colors when using the pencil tool by moving the 8 switches provided on the board to pick an 8-bit color.
 

@@ -29,5 +29,6 @@ The user changes tools using the buttons on the board, with UP/DOWN for tool sel
 Users are able to choose between 256 colors when using the pencil tool by moving the 8 switches provided on the board to pick an 8-bit color.
 
 Nexys3 Board:
+
 ![](https://raw.githubusercontent.com/Daniel-Norman/FDPaint/master/board.jpg)
 
